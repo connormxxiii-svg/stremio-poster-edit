@@ -1,16 +1,15 @@
 {
   "id": "com.custom.suddenimpactposter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Sudden Impact Custom Poster",
-  "description": "Custom poster for Sudden Impact (1983)",
+  "description": "Custom poster for Sudden Impact",
   "resources": [
     {
       "name": "meta",
       "types": ["movie"],
-      "idPrefixes": ["tt"]
+      "idPrefixes": ["tt0086383"]
     }
   ],
   "types": ["movie"],
-  "idPrefixes": ["tt"],
-  "catalogs": []
+  "idPrefixes": ["tt0086383"]
 }
