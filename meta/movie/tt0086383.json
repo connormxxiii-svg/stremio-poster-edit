@@ -1,10 +1,12 @@
 {
-  "meta": {
-    "id": "tt0086383",
-    "type": "movie",
-    "name": "Sudden Impact",
-    "releaseInfo": "1983",
-    "posterShape": "poster",
-    "poster": "https://connormxxiii-svg.github.io/stremio-poster-edit/sudden-impact.jpg"
-  }
+  "meta": [
+    {
+      "id": "tt0086383",
+      "type": "movie",
+      "name": "Sudden Impact",
+      "releaseInfo": "1983",
+      "posterShape": "poster",
+      "poster": "https://connormxxiii-svg.github.io/stremio-poster-edit/sudden-impact.jpg"
+    }
+  ]
 }
