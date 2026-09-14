@@ -11,5 +11,6 @@
     }
   ],
   "types": ["movie"],
-  "idPrefixes": ["tt"]
+  "idPrefixes": ["tt"],
+  "catalogs": []
 }
