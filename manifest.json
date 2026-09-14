@@ -1,6 +1,6 @@
 {
   "id": "com.custom.suddenimpactposter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Sudden Impact Custom Poster",
   "description": "Custom poster for Sudden Impact",
   "resources": [
@@ -11,5 +11,6 @@
     }
   ],
   "types": ["movie"],
-  "idPrefixes": ["tt0086383"]
+  "idPrefixes": ["tt0086383"],
+  "catalogs": []
 }
